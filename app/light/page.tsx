@@ -27,7 +27,7 @@ export default function Home() {
            <div className="ml-[12px] font-normal text-[12px] mt-[7px]">Total Events<br/><p className="font-medium text-[14px] mt-[2px]">{x.totalEvents}</p></div>
            <div className="mr-[25px] font-normal text-[12px] mt-[7px]">Sport<br/><p className="font-medium text-[14px] mt-[2px]">{x.sport}</p></div>
         </div>
-    </div>) : (<div className="shadow-lg bg-[#FFFFFF]" style={{  width:'237px', height:'511px'}}><div className="bg-black w-[47.78px] h-[25px] mt-[10px]  absolute  ml-[179px] font-bold text-[12.8px
+    </div>) : (<div className="shadow-lg bg-[#FFFFFF]" style={{  width:'237px', height:'511px'}}><div className="bg-black w-[47.78px] h-[25px] mt-[10px]  absolute  ml-[179.5px] font-bold text-[12.8px
 ]" style={{zIndex:'2px',textAlign:'center',color:'white'}}>Ad</div> 
         <img className="w-[217px] h-[218px]  ml-[10px] mt-[10px]" src={x.image}/>
         
