@@ -2,9 +2,6 @@
 "use client"
 import Image from "next/image";
 import {useState} from 'react';
-// import image1 from '../public/image1.png';
-// import image2 from '../public/image2.png';
-// import image3 from '../public/image3.png';
 
 export default function Home() {
 
